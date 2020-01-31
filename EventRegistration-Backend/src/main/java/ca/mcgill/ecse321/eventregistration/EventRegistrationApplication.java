@@ -16,4 +16,6 @@ public class EventRegistrationApplication {
   public String greeting(){
     return "Hello world!";
   }
+
+ 
 }
